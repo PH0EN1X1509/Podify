@@ -10,11 +10,7 @@ export default function Hero() {
           <div className="absolute w-72 h-72 bg-blue-500 opacity-30 rounded-full blur-3xl animate-pulse left-10 top-10"></div>
           <div className="absolute w-96 h-96 bg-purple-500 opacity-30 rounded-full blur-3xl animate-pulse right-10 bottom-10"></div>
         </div>
-        <img 
-            src="C:/Users/Anshul Parkar/Documents/GitHub/New folder/Hacksync_Error101/podcast/public/herobg.png" 
-            alt="Hero Background" 
-            className="absolute inset-0 w-full h-full object-cover opacity-50" 
-        />
+
         <h1 className="text-4xl sm:text-6xl font-bold mb-4 relative z-10">AI Podcast Generator</h1>
         <p className="text-lg sm:text-xl max-w-2xl relative z-10">
           Use AI to generate podcast episodes effortlessly. Create engaging content in seconds!
